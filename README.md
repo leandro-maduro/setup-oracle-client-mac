@@ -1,4 +1,4 @@
-## Oracle client (12.1.0.2) in MacOS
+## Oracle client (12.1.0.2) in MacOS (El Capitan - 10.11.4)
 
 To install and setup oracle client in your machine.  
 
